@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbcats
-I do not know how github works but my website is hosted here :).
+I don't upload publicly but my website is hosted here :).
 
 <!---
 bbcats/bbcats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
